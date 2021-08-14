@@ -1,7 +1,8 @@
 package com.mfkl.git;
 
 public class GitTest {
-    public static void main(string[] args) {
-        system.out.printly("Hello World!");
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+        System.out.println("Hello Git!");
     }
 }
